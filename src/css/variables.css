@@ -1,0 +1,6 @@
+:root {
+    --cor-de-fundo-container: hsl(0, 0%, 100%); 
+    --cor-de-fundo-main: hsl(212, 45%, 89%) ;
+    --cor-de-texto-paragrafo: hsl(220, 15%, 55%);
+    --cor-dark: hsl(218, 44%, 22%); 
+}
